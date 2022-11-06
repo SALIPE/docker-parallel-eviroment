@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  first-project:
+    build: first-project/
+  second-project:
+    build: second-project/
