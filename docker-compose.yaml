@@ -1,6 +1,12 @@
-version: "3.9"
+version: "3.3"
 services:
   first-project:
     build: first-project/
-  second-project:
-    build: second-project/
+  # second-project:
+  #   build: second-project/
+  # third-project:
+  #   build: third-project/
+  # fourth-project:
+  #   build: fourth-project/
+  # fifth-project:
+  #   build: fifth-project/

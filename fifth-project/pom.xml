@@ -7,10 +7,10 @@
         <version>2.6.12</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.second</groupId>
-    <artifactId>second-project</artifactId>
+    <groupId>com.fifth</groupId>
+    <artifactId>fifth-project</artifactId>
     <version>0.0.1</version>
-    <name>second-project</name>
+    <name>fifth-project</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>8</java.version>
@@ -41,7 +41,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>docker-second-project</finalName>
+        <finalName>docker-fifth-project</finalName>
     </build>
 
 </project>

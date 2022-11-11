@@ -24,3 +24,7 @@ hs_err_pid*
 replay_pid*
 /first-project - Copy/target/
 /second-project/target/
+/second-project - Copy/target/
+/third-project/target/
+/fourth-project/target/
+/fifth-project/target/
